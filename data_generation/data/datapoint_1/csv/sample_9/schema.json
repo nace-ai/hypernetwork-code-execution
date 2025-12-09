@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "net_worth",
+    "yield_rate",
+    "division",
+    "half",
+    "comments"
+  ],
+  "description": "Net worth data with yield rates and division-based sorting by half"
+}

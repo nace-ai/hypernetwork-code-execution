@@ -1,0 +1,1 @@
+Find the total adjusted transaction value for business groupings, grouped by time period, with a 0.95 discount.

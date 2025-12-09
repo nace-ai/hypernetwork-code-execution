@@ -1,0 +1,1 @@
+Calculate the total earnings for the corporate segment, applying bonus adjustments for each fiscal year.

@@ -1,0 +1,1 @@
+Calculate the total liabilities for inventory in the West Coast region with a minimum of 30 units in stock.

@@ -1,0 +1,11 @@
+{
+  "columns": [
+    "product_code",
+    "on_hand",
+    "cost_price",
+    "warehouse_code",
+    "product_type",
+    "supplier"
+  ],
+  "description": "Product inventory with supplier and warehouse information"
+}

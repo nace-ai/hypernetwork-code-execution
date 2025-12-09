@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "equity_holdings",
+  "liabilities_column": "liability_value",
+  "shares_outstanding_column": "shares_avail",
+  "filter_column": "sector_group",
+  "filter_value": "Telecom"
+}

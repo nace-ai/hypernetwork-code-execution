@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "equity_sum",
+  "liabilities_column": "debt_sum",
+  "shares_outstanding_column": "shares_total",
+  "filter_column": "area",
+  "filter_value": "Urban"
+}

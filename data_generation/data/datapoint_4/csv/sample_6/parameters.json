@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "total_assets",
+  "liabilities_column": "debts",
+  "shares_outstanding_column": "out_share",
+  "filter_column": "sector_name",
+  "filter_value": "Energy"
+}

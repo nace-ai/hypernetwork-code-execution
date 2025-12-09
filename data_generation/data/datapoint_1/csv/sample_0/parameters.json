@@ -1,0 +1,10 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "balance",
+  "filter_column": "account_type",
+  "filter_value": "savings",
+  "group_by_column": "region",
+  "min_threshold": 2000.0,
+  "interest_rate_column": "interest_rate",
+  "discount_rate": 0.9
+}

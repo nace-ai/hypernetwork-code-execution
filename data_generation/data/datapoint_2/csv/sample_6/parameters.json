@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "sales_amount",
+  "cost_column": "costs",
+  "filter_column": "sector",
+  "filter_value": "Manufacturing",
+  "discount_rate": 0.04
+}

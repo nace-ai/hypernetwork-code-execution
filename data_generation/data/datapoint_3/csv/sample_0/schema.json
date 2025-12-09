@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "current_assets",
+    "current_liab",
+    "division",
+    "notes"
+  ],
+  "description": "Schema with informal abbreviations and a notes column"
+}

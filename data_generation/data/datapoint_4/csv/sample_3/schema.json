@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "equity_amount",
+    "debt",
+    "shares_owned",
+    "category"
+  ],
+  "description": "Financial metrics grouped by business category"
+}

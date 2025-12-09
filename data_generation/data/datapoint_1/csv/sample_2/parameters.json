@@ -1,0 +1,10 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "transaction_value",
+  "filter_column": "grouping",
+  "filter_value": "business",
+  "group_by_column": "time_period",
+  "min_threshold": 1000.0,
+  "interest_rate_column": "rate_of_interest",
+  "discount_rate": 0.95
+}

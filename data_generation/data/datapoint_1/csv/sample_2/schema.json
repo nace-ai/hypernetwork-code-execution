@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "transaction_value",
+    "rate_of_interest",
+    "grouping",
+    "time_period",
+    "notes"
+  ],
+  "description": "Transactional data with interest rates and group classifications"
+}

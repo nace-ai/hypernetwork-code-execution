@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "currentAssets",
+    "currentLiabilities",
+    "department",
+    "date_founded"
+  ],
+  "description": "Formal camelCase naming with department as filter"
+}

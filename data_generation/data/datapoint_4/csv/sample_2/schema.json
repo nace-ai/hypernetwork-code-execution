@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "equity_val",
+    "liabilities_value",
+    "outstanding_shares",
+    "division"
+  ],
+  "description": "Includes equity and liabilities with division categorization"
+}

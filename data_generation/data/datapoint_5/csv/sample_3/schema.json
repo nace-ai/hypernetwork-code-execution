@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "code",
+    "qty_in_stock",
+    "price_per_item",
+    "distribution_center",
+    "product_category"
+  ],
+  "description": "Distribution center inventory data with product categorization"
+}

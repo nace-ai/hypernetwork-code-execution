@@ -1,0 +1,6 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "equity_val",
+  "liabilities_column": "liabilities_value",
+  "shares_outstanding_column": "outstanding_shares"
+}

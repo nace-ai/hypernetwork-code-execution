@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "total_assets",
+    "debts",
+    "out_share",
+    "sector_name"
+  ],
+  "description": "Detailed financial breakdown by the sector name"
+}

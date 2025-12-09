@@ -1,0 +1,4 @@
+sku,available_quantity,unit_cost_usd,location,section
+A100,150,2.95,Shelf A,East
+B200,60,7.8,Shelf B,West
+C300,40,12.5,Shelf C,North

@@ -1,0 +1,4 @@
+id,sales_volume,production_cost,segment,qtr
+101,1000,800,Tech,Q1
+102,1500,1200,Tech,Q2
+103,1100,950,Retail,Q1

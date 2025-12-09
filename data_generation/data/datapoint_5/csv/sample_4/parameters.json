@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "quantity",
+  "cost_column": "unit_price",
+  "filter_column": "region",
+  "filter_value": "West Coast",
+  "min_threshold": 30
+}

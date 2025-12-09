@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "earnings",
+  "filter_column": "segment",
+  "filter_value": "corporate",
+  "interest_rate_column": "bonus_rate",
+  "discount_rate": 1.0
+}

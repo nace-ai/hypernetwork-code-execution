@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "net_worth",
+    "debts",
+    "total_shares",
+    "sector"
+  ],
+  "description": "Shareholder equity and debt details by sector"
+}

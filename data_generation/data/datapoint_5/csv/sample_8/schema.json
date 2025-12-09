@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "code",
+    "available_stock",
+    "cost",
+    "facility"
+  ],
+  "description": "Stock and cost data distributed by facility codes"
+}

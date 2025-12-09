@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "code",
+    "earned",
+    "spent",
+    "zone"
+  ],
+  "description": "Revenue and expenditure figures by zone"
+}

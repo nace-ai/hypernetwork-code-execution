@@ -1,0 +1,1 @@
+Determine the total profit for the electronics product line, grouped by periods with a 0.98 discount.

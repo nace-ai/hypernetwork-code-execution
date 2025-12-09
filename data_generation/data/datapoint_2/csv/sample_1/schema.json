@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "item_code",
+    "total_income",
+    "expense",
+    "category"
+  ],
+  "description": "Income and expense data segmented by category"
+}

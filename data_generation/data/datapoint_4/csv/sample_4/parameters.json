@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "eq_assets",
+  "liabilities_column": "liabilities",
+  "shares_outstanding_column": "shares_out",
+  "filter_column": "main_sector",
+  "filter_value": "Transport"
+}

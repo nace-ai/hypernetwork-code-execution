@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "item_number",
+    "revenue_generated",
+    "cost_incurred",
+    "category_code"
+  ],
+  "description": "Revenue and cost data tracked by category code"
+}

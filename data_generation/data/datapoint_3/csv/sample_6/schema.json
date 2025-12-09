@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "asset_total",
+    "liability_total",
+    "region_name",
+    "review_date"
+  ],
+  "description": "Schema with regional data and review date"
+}

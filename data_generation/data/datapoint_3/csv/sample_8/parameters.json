@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "currentAssetValue",
+  "liabilities_column": "currentLiabilityValue",
+  "filter_column": "sectorType",
+  "filter_value": "Retail"
+}

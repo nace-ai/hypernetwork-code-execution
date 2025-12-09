@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "total_current_assets_amt",
+  "liabilities_column": "total_current_liabilities_amt",
+  "filter_column": "market_segment",
+  "filter_value": "Technology"
+}

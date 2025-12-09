@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "item_number",
+    "stock",
+    "price",
+    "branches"
+  ],
+  "description": "Simple inventory data with branch distribution"
+}

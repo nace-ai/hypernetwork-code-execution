@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "profit_amount",
+    "increment_rate",
+    "product_line",
+    "period",
+    "details"
+  ],
+  "description": "Profit data with increment rates and product line focus by period"
+}

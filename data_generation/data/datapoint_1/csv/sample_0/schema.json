@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "balance",
+    "interest_rate",
+    "account_type",
+    "transaction_count",
+    "region"
+  ],
+  "description": "Standard banking data with account type and region inclusion"
+}

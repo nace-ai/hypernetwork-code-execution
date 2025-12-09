@@ -1,0 +1,1 @@
+Calculate the total income for the year 2023, adjusted for interest rates and including a 1.05 multiplier.

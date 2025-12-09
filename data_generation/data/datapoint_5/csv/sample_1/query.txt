@@ -1,0 +1,1 @@
+Calculate the total liabilities grouped by product type at a 5% discount.

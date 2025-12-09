@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "equity_amount",
+  "liabilities_column": "debt",
+  "shares_outstanding_column": "shares_owned",
+  "filter_column": "category",
+  "filter_value": "Retail"
+}

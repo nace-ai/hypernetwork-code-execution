@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "assets_sum",
+    "liabilities_sum",
+    "division_code",
+    "created_on"
+  ],
+  "description": "Includes sum suffix and division codes"
+}

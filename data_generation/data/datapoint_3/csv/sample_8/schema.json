@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "currentAssetValue",
+    "currentLiabilityValue",
+    "sectorType",
+    "evaluation_year"
+  ],
+  "description": "Current value columns with camelCase and year field"
+}

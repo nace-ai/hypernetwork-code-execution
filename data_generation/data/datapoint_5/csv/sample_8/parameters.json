@@ -1,0 +1,6 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "available_stock",
+  "cost_column": "cost",
+  "group_by_column": "facility"
+}

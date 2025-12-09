@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "gross_income",
+    "rate",
+    "type",
+    "year",
+    "extra_info"
+  ],
+  "description": "Income data with variable rates and types for yearly analysis"
+}

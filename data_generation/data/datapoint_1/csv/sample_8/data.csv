@@ -1,0 +1,4 @@
+capital_value,interest_growth,industry,semester,observations
+150000,0.05,manufacturing,S1,First Half
+100000,0.04,service,S2,Second Half
+130000,0.06,manufacturing,S2,Peak Period

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "product_ref",
+    "income_generated",
+    "expenditure",
+    "market_area"
+  ],
+  "description": "Income and expenses data recorded by market area"
+}

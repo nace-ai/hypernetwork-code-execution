@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "eq_assets",
+    "liabilities",
+    "shares_out",
+    "main_sector"
+  ],
+  "description": "Financial data segmented by main business sector"
+}

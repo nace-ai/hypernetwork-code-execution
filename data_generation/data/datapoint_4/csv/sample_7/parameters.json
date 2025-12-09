@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "net_equity",
+  "liabilities_column": "current_liabilities",
+  "shares_outstanding_column": "available_shares",
+  "filter_column": "industry_type",
+  "filter_value": "Healthcare"
+}

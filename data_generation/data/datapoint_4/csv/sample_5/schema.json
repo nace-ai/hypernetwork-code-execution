@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "equity_sum",
+    "debt_sum",
+    "shares_total",
+    "area"
+  ],
+  "description": "Financial data including equity, debt, and shares info by area"
+}

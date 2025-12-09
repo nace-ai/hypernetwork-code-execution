@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "qty_in_stock",
+  "cost_column": "price_per_item",
+  "group_by_column": "distribution_center",
+  "discount_rate": 0.2
+}

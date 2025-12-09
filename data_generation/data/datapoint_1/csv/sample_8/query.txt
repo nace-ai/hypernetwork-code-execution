@@ -1,0 +1,1 @@
+Find the aggregate capital value in the manufacturing industry for each semester, adjusted by growth and a 0.97 discount.

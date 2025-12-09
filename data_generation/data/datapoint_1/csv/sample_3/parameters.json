@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "gross_income",
+  "filter_column": "year",
+  "filter_value": "2023",
+  "interest_rate_column": "rate",
+  "discount_rate": 1.05
+}

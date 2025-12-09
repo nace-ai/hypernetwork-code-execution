@@ -1,0 +1,4 @@
+balance,interest_rate,account_type,transaction_count,region
+5000.0,0.02,savings,40,North
+15000.0,0.015,checking,15,South
+3000.0,0.01,savings,50,East

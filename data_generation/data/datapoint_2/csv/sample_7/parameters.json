@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "revenue_generated",
+  "cost_column": "cost_incurred",
+  "filter_column": "category_code",
+  "filter_value": "Electronics",
+  "discount_rate": 0.08
+}

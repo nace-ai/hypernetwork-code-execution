@@ -1,0 +1,5 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "assets",
+  "liabilities_column": "liabilities"
+}

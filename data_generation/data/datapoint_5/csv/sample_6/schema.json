@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "product_id",
+    "inventory_count",
+    "cost_per_unit",
+    "sector",
+    "origin_warehouse"
+  ],
+  "description": "Sector-based warehouse inventory categorization"
+}

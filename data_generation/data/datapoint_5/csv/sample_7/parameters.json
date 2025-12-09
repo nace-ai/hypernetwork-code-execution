@@ -1,0 +1,6 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "quantity_available",
+  "cost_column": "price_per_unit",
+  "discount_rate": 0.1
+}

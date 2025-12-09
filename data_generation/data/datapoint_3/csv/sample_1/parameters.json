@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "assets_total",
+  "liabilities_column": "liabilities_total",
+  "filter_column": "region",
+  "filter_value": "North"
+}

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "profit_amount",
+  "filter_column": "product_line",
+  "filter_value": "electronics",
+  "group_by_column": "period",
+  "interest_rate_column": "increment_rate",
+  "discount_rate": 0.98
+}

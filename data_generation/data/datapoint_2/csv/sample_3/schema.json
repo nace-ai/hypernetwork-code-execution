@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "id",
+    "sales_volume",
+    "production_cost",
+    "segment",
+    "qtr"
+  ],
+  "description": "Quarterly sales volume and production costs across different business segments"
+}

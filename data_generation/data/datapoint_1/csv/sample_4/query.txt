@@ -1,0 +1,1 @@
+What is the total sales figure for retail classification, adjusted by the markup rate, for each month?

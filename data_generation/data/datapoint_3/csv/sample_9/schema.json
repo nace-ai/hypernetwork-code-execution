@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "total_current_assets_amt",
+    "total_current_liabilities_amt",
+    "market_segment",
+    "period_end"
+  ],
+  "description": "Long descriptive column names with market segment filter"
+}

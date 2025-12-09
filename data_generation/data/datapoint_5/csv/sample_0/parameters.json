@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "stock_qty",
+  "cost_column": "price_per_unit",
+  "filter_column": "store_location",
+  "filter_value": "Central",
+  "discount_rate": 0.1
+}

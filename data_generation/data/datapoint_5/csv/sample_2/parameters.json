@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "available_quantity",
+  "cost_column": "unit_cost_usd",
+  "filter_column": "section",
+  "filter_value": "East",
+  "min_threshold": 50
+}

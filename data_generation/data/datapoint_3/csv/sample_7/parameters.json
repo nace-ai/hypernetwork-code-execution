@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "assets_sum",
+  "liabilities_column": "liabilities_sum",
+  "filter_column": "division_code",
+  "filter_value": "D2"
+}

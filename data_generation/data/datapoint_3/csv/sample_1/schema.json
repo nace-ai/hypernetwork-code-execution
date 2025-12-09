@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "assets_total",
+    "liabilities_total",
+    "region",
+    "employee_count"
+  ],
+  "description": "Includes region filter and employee count for additional context"
+}

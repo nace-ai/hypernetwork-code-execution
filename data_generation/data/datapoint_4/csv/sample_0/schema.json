@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "total_equity",
+    "total_liabilities",
+    "shares_count",
+    "industry",
+    "region"
+  ],
+  "description": "Financial data segmented by industry and region"
+}

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "capital_value",
+    "interest_growth",
+    "industry",
+    "semester",
+    "observations"
+  ],
+  "description": "Capital values in industries with interest growth metrics by semester"
+}

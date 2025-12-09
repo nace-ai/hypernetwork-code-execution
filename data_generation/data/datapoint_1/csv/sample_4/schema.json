@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "sales_figure",
+    "markup_rate",
+    "classification",
+    "month",
+    "commentary"
+  ],
+  "description": "Sales data with markups and classifications across different months"
+}

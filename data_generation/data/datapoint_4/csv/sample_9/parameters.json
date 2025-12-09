@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "funds",
+  "liabilities_column": "debts_outstanding",
+  "shares_outstanding_column": "total_shares",
+  "filter_column": "business_class",
+  "filter_value": "Mining"
+}

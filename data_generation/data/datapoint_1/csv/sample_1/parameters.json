@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "amount",
+  "filter_column": "category",
+  "filter_value": "savings",
+  "interest_rate_column": "int_rate",
+  "discount_rate": 1.0
+}

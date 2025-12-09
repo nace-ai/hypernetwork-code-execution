@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "fund_balance",
+  "filter_column": "sector",
+  "filter_value": "technology",
+  "interest_rate_column": "growth_rate",
+  "discount_rate": 1.1
+}

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "sales_figure",
+  "filter_column": "classification",
+  "filter_value": "retail",
+  "group_by_column": "month",
+  "interest_rate_column": "markup_rate",
+  "discount_rate": 1.0
+}

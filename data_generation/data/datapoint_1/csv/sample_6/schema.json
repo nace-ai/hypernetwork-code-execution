@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "fund_balance",
+    "growth_rate",
+    "sector",
+    "quarter",
+    "remarks"
+  ],
+  "description": "Balance data in funds with growth rates and specific sectors"
+}

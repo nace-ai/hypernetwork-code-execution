@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "net_equity",
+    "current_liabilities",
+    "available_shares",
+    "industry_type"
+  ],
+  "description": "Equity and liabilities data categorized by industry type"
+}

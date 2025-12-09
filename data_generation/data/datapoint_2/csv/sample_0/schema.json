@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "product_id",
+    "sales",
+    "cost_per_item",
+    "region"
+  ],
+  "description": "Sales and cost data with region classification"
+}

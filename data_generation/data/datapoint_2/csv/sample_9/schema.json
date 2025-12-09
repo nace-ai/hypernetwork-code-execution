@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "entry_id",
+    "revenue",
+    "expenses",
+    "division"
+  ],
+  "description": "Revenue and expenses listed by company division"
+}

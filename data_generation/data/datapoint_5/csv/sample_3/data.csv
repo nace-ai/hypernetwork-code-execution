@@ -1,0 +1,4 @@
+code,qty_in_stock,price_per_item,distribution_center,product_category
+D001,300,1.5,DC1,Raw Material
+D002,150,3.0,DC2,Finished Goods
+D003,500,0.75,DC1,Packaging

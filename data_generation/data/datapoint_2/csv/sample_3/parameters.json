@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "sales_volume",
+  "cost_column": "production_cost",
+  "filter_column": "segment",
+  "filter_value": "Tech",
+  "discount_rate": 0.02
+}

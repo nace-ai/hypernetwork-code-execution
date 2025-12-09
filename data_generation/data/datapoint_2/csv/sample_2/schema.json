@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "sku",
+    "quantity",
+    "unit_price",
+    "department"
+  ],
+  "description": "Inventory data with price and departmental classification"
+}

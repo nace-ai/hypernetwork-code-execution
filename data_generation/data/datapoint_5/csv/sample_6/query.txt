@@ -1,0 +1,1 @@
+Compute the total liabilities for all items with inventory counts greater than 50, including a 5% discount applied.

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "assets",
+    "liabilities",
+    "unit",
+    "fiscal_quarter"
+  ],
+  "description": "Minimalist column naming and fiscal quarter context"
+}

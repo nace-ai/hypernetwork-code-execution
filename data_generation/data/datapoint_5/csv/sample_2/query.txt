@@ -1,0 +1,1 @@
+What is the total cost of items in the East section with a minimum quantity of 50?

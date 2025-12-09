@@ -1,0 +1,1 @@
+Calculate the total balance for savings accounts in different regions with a discount of 0.9.

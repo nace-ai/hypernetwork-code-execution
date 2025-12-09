@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "batch_id",
+    "gross_revenue",
+    "total_cost",
+    "market_segment"
+  ],
+  "description": "Batch-wise revenue and cost data based on market segment"
+}

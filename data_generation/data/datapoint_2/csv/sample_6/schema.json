@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "reference_num",
+    "sales_amount",
+    "costs",
+    "sector"
+  ],
+  "description": "Cost and sales data categorized by economic sector"
+}

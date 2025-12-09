@@ -1,0 +1,4 @@
+product_id,inventory_count,cost_per_unit,sector,origin_warehouse
+5001,80,3.5,Sector 1,Warehouse Alpha
+5002,150,6.25,Sector 2,Warehouse Beta
+5003,10,45.0,Sector 3,Warehouse Gamma

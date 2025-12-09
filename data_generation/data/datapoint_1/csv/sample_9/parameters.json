@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "net_worth",
+  "filter_column": "division",
+  "filter_value": "global",
+  "group_by_column": "half",
+  "interest_rate_column": "yield_rate",
+  "discount_rate": 1.0
+}

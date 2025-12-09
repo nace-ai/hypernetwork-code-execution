@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "sku",
+    "available_quantity",
+    "unit_cost_usd",
+    "location",
+    "section"
+  ],
+  "description": "SKU-based inventory management with section divisions"
+}

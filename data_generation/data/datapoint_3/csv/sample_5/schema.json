@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "curr_assets",
+    "curr_liabilities",
+    "sector",
+    "proj_growth"
+  ],
+  "description": "Abbreviated columns with projected growth field"
+}

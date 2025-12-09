@@ -1,0 +1,1 @@
+Calculate the net profit for the Electronics category after applying a 10% discount on total income.

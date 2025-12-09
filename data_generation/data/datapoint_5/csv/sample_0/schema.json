@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "item_id",
+    "stock_qty",
+    "price_per_unit",
+    "store_location",
+    "category"
+  ],
+  "description": "Inventory with unit prices and store locations"
+}

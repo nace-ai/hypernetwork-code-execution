@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "curr_assets",
+  "liabilities_column": "curr_liabilities",
+  "filter_column": "sector",
+  "filter_value": "Tech"
+}

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "id",
+    "quantity",
+    "unit_price",
+    "region",
+    "warehouse_id"
+  ],
+  "description": "Warehouse inventory records categorized by region"
+}

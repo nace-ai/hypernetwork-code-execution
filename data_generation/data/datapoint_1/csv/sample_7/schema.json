@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "earnings",
+    "bonus_rate",
+    "segment",
+    "fiscal_year",
+    "annotations"
+  ],
+  "description": "Earnings data with bonus rates and business segments by fiscal year"
+}

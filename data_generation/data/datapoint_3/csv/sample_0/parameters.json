@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "current_assets",
+  "liabilities_column": "current_liab",
+  "filter_column": "division",
+  "filter_value": "A"
+}

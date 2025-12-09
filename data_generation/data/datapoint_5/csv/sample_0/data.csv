@@ -1,0 +1,4 @@
+item_id,stock_qty,price_per_unit,store_location,category
+101,50,20.75,Central,Electronics
+102,100,15.5,North,Furniture
+103,200,5.25,West,Clothing

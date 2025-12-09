@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "product_id",
+    "quantity_available",
+    "price_per_unit",
+    "location_section"
+  ],
+  "description": "Product inventory categorized by location sections"
+}

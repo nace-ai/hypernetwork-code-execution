@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "equity_holdings",
+    "liability_value",
+    "shares_avail",
+    "sector_group"
+  ],
+  "description": "Financial data including equity and liabilities by sector group"
+}

@@ -1,0 +1,4 @@
+id,quantity,unit_price,region,warehouse_id
+1,25,22.0,East Coast,W001
+2,60,8.0,West Coast,W002
+3,12,55.75,Midwest,W003

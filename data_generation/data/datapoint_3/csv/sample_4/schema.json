@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "total_assets",
+    "total_liabilities",
+    "category",
+    "remarks"
+  ],
+  "description": "Assets and liabilities with additional remarks field"
+}

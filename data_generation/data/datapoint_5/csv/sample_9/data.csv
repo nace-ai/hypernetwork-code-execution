@@ -1,0 +1,4 @@
+item_code,count,price_value,store,category_type
+X001,55,12.99,Store 1,Electronics
+X002,150,3.5,Store 2,Grocery
+X003,75,25.0,Store 1,Clothing

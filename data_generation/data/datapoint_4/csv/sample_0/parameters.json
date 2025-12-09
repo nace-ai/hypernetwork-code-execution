@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "equity_column": "total_equity",
+  "liabilities_column": "total_liabilities",
+  "shares_outstanding_column": "shares_count",
+  "filter_column": "industry",
+  "filter_value": "Tech"
+}

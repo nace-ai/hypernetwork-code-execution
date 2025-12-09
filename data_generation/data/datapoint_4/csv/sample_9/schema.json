@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "funds",
+    "debts_outstanding",
+    "total_shares",
+    "business_class"
+  ],
+  "description": "Comprehensive financial overview by business class"
+}

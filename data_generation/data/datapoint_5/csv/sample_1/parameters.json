@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "on_hand",
+  "cost_column": "cost_price",
+  "warehouse_column": "warehouse_code",
+  "group_by_column": "product_type",
+  "discount_rate": 0.05
+}

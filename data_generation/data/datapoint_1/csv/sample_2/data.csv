@@ -1,0 +1,4 @@
+transaction_value,rate_of_interest,grouping,time_period,notes
+10000,0.04,business,Q1,Quarterly Report
+2000,0.03,personal,Q1,Personal Fund
+5000,0.02,business,Q2,Business Expense

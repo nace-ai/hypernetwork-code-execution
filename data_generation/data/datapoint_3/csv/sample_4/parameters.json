@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "assets_column": "total_assets",
+  "liabilities_column": "total_liabilities",
+  "filter_column": "category",
+  "filter_value": "Budget"
+}

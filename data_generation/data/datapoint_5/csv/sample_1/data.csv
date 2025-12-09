@@ -1,0 +1,4 @@
+product_code,on_hand,cost_price,warehouse_code,product_type,supplier
+P001,30,30.0,WH1,Gadget,Supplier A
+P002,20,45.0,WH2,Appliance,Supplier B
+P003,70,10.0,WH1,Accessory,Supplier C

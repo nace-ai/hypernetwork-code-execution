@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "item_code",
+    "count",
+    "price_value",
+    "store",
+    "category_type"
+  ],
+  "description": "Comprehensive item inventory with price and category data"
+}

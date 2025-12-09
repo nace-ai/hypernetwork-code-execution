@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "amount",
+    "int_rate",
+    "category",
+    "date",
+    "description"
+  ],
+  "description": "Data related to financial amounts with distinct interest rates and categories"
+}

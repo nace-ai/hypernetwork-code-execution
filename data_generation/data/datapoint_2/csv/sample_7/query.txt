@@ -1,0 +1,1 @@
+Determine the net income for products in the Electronics category with an 8% discount applied.

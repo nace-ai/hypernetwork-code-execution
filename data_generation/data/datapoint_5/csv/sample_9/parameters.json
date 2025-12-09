@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "quantity_column": "count",
+  "cost_column": "price_value",
+  "group_by_column": "category_type",
+  "discount_rate": 0.05
+}
