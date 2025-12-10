@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "income",
+  "expense_column": "outflow",
+  "revenue_filter_column": "division",
+  "revenue_filter_value": "Retail"
+}

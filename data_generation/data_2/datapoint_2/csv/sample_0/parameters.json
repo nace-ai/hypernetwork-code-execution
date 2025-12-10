@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "listing_price_column": "price",
+  "property_type_column": "property_category",
+  "filter_property_type": "Residential",
+  "discount_rate": 0.05
+}

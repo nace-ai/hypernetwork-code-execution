@@ -1,0 +1,17 @@
+amount,type,district,administrator
+6100.0,Expense,District 1,Admin 1
+5200.0,Revenue,District 2,Admin 2
+3300.0,Expense,District 1,Admin 3
+7400.0,Revenue,District 3,Admin 4
+2200.0,Expense,District 4,Admin 5
+6300.0,Revenue,District 1,Admin 6
+5100.0,Expense,District 5,Admin 7
+7400.0,Revenue,District 2,Admin 8
+8800.0,Expense,District 3,Admin 9
+4400.0,Revenue,District 4,Admin 10
+5500.0,Expense,District 5,Admin 11
+1200.0,Revenue,District 1,Admin 12
+3900.0,Expense,District 2,Admin 13
+2300.0,Revenue,District 3,Admin 14
+6900.0,Expense,District 4,Admin 15
+4700.0,Revenue,District 5,Admin 16

@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "sales_value",
+  "shipping_column": "freight_cost",
+  "filter_column": "customer_region",
+  "filter_value": "East",
+  "status_column": "order_status",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

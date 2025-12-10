@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "project_code",
+    "revenue_generated",
+    "cost_of_services",
+    "department"
+  ],
+  "description": "Project-based revenue and cost data by department"
+}

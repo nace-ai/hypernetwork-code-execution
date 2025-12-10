@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "batch_id",
+    "total_income",
+    "total_expenditure",
+    "area"
+  ],
+  "description": "Financial data from various areas with a focus on income and expenditure"
+}

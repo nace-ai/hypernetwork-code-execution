@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "order_amount",
+    "status",
+    "ship_cost",
+    "customer_id",
+    "order_date"
+  ],
+  "description": "Schema representing order transactions with customer and order details over various timestamps."
+}

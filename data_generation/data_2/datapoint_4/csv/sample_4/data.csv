@@ -1,0 +1,7 @@
+invoice_value,completed_status,transport_fee,order_reference
+456.78,completed,11.0,10001
+567.89,completed,12.5,10002
+678.9,pending,8.0,10003
+789.01,completed,13.25,10004
+890.12,completed,9.75,10005
+901.23,completed,14.5,10006

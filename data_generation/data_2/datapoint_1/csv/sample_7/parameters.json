@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "cost",
+  "shipping_column": "logistics_fee",
+  "filter_column": "zone",
+  "filter_value": "Alpha",
+  "status_column": "order_condition",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

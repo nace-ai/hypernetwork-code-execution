@@ -1,0 +1,16 @@
+record_id,revenue_stream,expenses_outgoing,departmental
+R001,1250.75,650.3,Sales
+R002,1350.8,700.5,HR
+R003,1450.1,750.7,Sales
+R004,1550.2,800.9,Finance
+R005,1500.3,775.6,HR
+R006,1600.9,825.4,Sales
+R007,1700.6,875.2,Finance
+R008,1650.7,850.8,HR
+R009,1750.4,900.1,Sales
+R010,1800.5,950.3,Finance
+R011,1850.2,975.5,Sales
+R012,1400.4,725.7,HR
+R013,1300.6,675.8,Finance
+R014,1550.1,800.0,Sales
+R015,1650.8,850.2,HR

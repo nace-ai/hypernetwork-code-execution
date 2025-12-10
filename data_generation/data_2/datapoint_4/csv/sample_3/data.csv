@@ -1,0 +1,10 @@
+sales_total,transaction_status,freight_cost,client_id,region
+800.0,completed,10.0,30,North
+900.5,in-progress,15.0,31,South
+1000.75,completed,20.0,32,East
+1100.6,completed,25.0,33,West
+1200.45,completed,30.0,34,North
+1300.3,completed,35.0,35,South
+1400.15,completed,40.0,36,East
+1500.0,completed,45.0,37,West
+1600.85,completed,50.0,38,North

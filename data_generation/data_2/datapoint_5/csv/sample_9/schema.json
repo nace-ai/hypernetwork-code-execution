@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "ref_id",
+    "net_sales",
+    "total_expense",
+    "location"
+  ],
+  "description": "Sales and expense details by location reference"
+}

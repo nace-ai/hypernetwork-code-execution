@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "order_id",
+    "gross_revenue",
+    "operational_expense",
+    "region_code"
+  ],
+  "description": "Order-based financial data with gross revenue and expenses by region code"
+}

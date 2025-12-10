@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "sale_id",
+    "sale_value",
+    "transport_fee",
+    "completion_status",
+    "division"
+  ],
+  "description": "Sales data with sale value, transport fee, and status classified by division"
+}

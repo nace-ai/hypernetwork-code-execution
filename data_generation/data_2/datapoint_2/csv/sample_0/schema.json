@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "price",
+    "property_category",
+    "city",
+    "owner_contact"
+  ],
+  "description": "Standard real estate listing with price and category"
+}

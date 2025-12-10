@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "bill_total",
+    "transaction_complete",
+    "dispatch_cost",
+    "record_id"
+  ],
+  "description": "Billing total alongside transaction status and dispatch costs for various records."
+}

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "total_income",
+  "cost_column": "total_expenditure",
+  "filter_column": "area",
+  "filter_value": "Zone 1",
+  "min_threshold": 8000.0,
+  "discount_rate": 0.1
+}

@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "revenue_collected",
+  "expense_column": "expenses_incurred",
+  "revenue_filter_column": "division_name",
+  "revenue_filter_value": "Tech"
+}

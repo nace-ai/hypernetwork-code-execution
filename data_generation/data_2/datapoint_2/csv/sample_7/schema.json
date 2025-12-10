@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "sales_amount",
+    "category",
+    "sector",
+    "account_executive"
+  ],
+  "description": "Sales records with category and sector, managed by account executives"
+}

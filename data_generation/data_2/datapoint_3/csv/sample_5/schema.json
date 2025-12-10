@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "ref_no",
+    "income_generated",
+    "money_spent",
+    "department",
+    "region"
+  ],
+  "description": "Extended dataset with department and regional details focusing on income and expenditure"
+}

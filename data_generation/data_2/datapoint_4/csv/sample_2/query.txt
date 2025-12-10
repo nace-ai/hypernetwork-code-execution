@@ -1,0 +1,1 @@
+What is the ratio of total shipping cost to total order amount for completed orders where shipping cost meets or exceeds $15?

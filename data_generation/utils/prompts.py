@@ -140,9 +140,17 @@ CRITICAL - SCHEMA DIVERSITY:
 Each test case should have a DIFFERENT CSV schema. Vary:
 - Column NAMES (use synonyms, abbreviations, different naming conventions)
 - Column ORDER
-- Number of ROWS (3-20 rows)
 - Additional COLUMNS (extra columns that won't be used)
 - Data VALUE ranges (small numbers, large numbers, decimals, negatives where appropriate)
+
+CRITICAL - ROW COUNT DIVERSITY:
+Each test case MUST have a DIFFERENT number of rows. DO NOT default to 3 rows for every case.
+- Test case 1: Use 5-7 rows
+- Test case 2: Use 10-12 rows  
+- Test case 3: Use 15-20 rows
+- Test case 4: Use 8-10 rows
+- Test case 5+: Vary between 4-20 rows, ensuring each is different from previous cases
+This diversity in row counts is MANDATORY - generating all test cases with the same row count is INCORRECT.
 
 Examples of column name variations:
 - "Revenue" → "revenue", "sales", "income", "total_sales", "sales_amount", "gross_revenue"
@@ -229,6 +237,7 @@ REQUIREMENTS:
 5. All numeric values should be reasonable (no extreme values)
 6. Ensure the data makes logical sense for each schema
 7. Each query must be specific to that test case's data and parameters
+8. MANDATORY: Each test case MUST have a DIFFERENT number of rows (range: 4-20). Do NOT use 3 rows for any test case.
 
 IMPORTANT:
 - Output ONLY valid JSON, no markdown or explanation

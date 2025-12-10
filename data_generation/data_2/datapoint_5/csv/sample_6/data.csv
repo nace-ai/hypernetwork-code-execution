@@ -1,0 +1,11 @@
+invoice_number,sales_amount,cost,sector_type
+INV1,3200.0,1600.0,Manufacturing
+INV2,3300.5,1650.25,Services
+INV3,3100.3,1550.15,Manufacturing
+INV4,3400.7,1700.35,Services
+INV5,3500.8,1750.4,Manufacturing
+INV6,3600.2,1800.3,Services
+INV7,3550.9,1775.45,Manufacturing
+INV8,3450.1,1725.05,Services
+INV9,3350.6,1675.3,Manufacturing
+INV10,3150.4,1575.2,Services

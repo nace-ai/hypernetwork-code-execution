@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "total_expense_column": "expense_sum",
+  "expense_filter_column": "completion_state",
+  "expense_filter_value": "completed",
+  "shipping_cost_column": "logistics_charge",
+  "aggregation_method": "sum",
+  "min_threshold": 6.0
+}

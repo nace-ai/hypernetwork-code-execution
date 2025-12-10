@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "income",
+  "cost_column": "costs",
+  "filter_column": "category",
+  "filter_value": "Retail",
+  "min_threshold": 1800.0,
+  "discount_rate": 0.03
+}

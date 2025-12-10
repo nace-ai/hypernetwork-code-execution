@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "invoice_value",
+    "completed_status",
+    "transport_fee",
+    "order_reference"
+  ],
+  "description": "Invoice and transport details for analyzed transactions, using distinct terminologies for columns."
+}

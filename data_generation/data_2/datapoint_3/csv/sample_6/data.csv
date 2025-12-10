@@ -1,0 +1,11 @@
+transaction_number,revenue_collected,expenses_incurred,division_name
+2001,18000,9000,Tech
+2002,15000,7000,Tech
+2003,12500,6000,Tech
+2004,19500,8900,Marketing
+2005,22000,12000,Finance
+2006,17000,8500,Tech
+2007,20000,10300,Marketing
+2008,23000,11500,Finance
+2009,19000,9500,Tech
+2010,21000,9800,Finance

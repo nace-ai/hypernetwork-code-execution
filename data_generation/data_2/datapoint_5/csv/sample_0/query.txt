@@ -1,0 +1,1 @@
+What is the gross profit margin for sales in the North region with total sales over 900, applying a 5% discount to costs?

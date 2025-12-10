@@ -1,0 +1,1 @@
+Calculate the gross profit margin for orders in region A1 where gross revenue is above 2300, considering a 6% discount on operational expenses.

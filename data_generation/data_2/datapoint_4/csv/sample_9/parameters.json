@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "total_expense_column": "bill_total",
+  "expense_filter_column": "transaction_complete",
+  "expense_filter_value": "yes",
+  "shipping_cost_column": "dispatch_cost",
+  "aggregation_method": "sum",
+  "min_threshold": 9.5
+}

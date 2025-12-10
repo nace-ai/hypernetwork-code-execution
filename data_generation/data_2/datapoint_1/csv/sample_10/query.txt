@@ -1,0 +1,1 @@
+What is the total amount due for completed entries in the West locale, including delivery fees?

@@ -1,0 +1,10 @@
+id,value,transportation_fee,item_status,region
+A1,220.0,25.0,completed,North
+A2,340.0,15.0,completed,West
+A3,180.0,8.0,completed,North
+A4,290.0,20.0,pending,East
+A5,360.0,10.0,completed,North
+A6,490.0,18.0,completed,South
+A7,310.0,12.0,completed,North
+A8,275.0,14.0,completed,East
+A9,420.0,22.0,completed,North

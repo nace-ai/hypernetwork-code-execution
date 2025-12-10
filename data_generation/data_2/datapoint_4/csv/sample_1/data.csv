@@ -1,0 +1,11 @@
+total_cost,shipment_status,fee_shipping,user_id,location
+123.45,completed,12.0,1,New York
+234.5,completed,10.0,2,Los Angeles
+345.6,completed,11.5,3,Chicago
+456.7,pending,9.0,4,Houston
+567.8,completed,10.0,5,Phoenix
+678.9,completed,11.0,6,Philadelphia
+789.0,completed,12.5,7,San Diego
+890.12,completed,13.0,8,Dallas
+901.23,completed,14.0,9,San Jose
+123.34,completed,15.0,10,Austin

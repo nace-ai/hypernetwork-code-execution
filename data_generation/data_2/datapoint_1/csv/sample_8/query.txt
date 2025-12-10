@@ -1,0 +1,1 @@
+What is the total sale value for completed sales in the North division, including transport fees?

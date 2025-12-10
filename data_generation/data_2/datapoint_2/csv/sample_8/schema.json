@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "expense",
+    "division",
+    "location",
+    "supervisor"
+  ],
+  "description": "Expense details by division and location with supervisor info"
+}

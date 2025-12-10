@@ -1,0 +1,7 @@
+entry_num,amount_due,delivery_fee,completion_flag,locale
+E1,320.0,14.0,completed,West
+E2,410.0,18.0,completed,East
+E3,290.0,11.0,pending,West
+E4,530.0,20.0,completed,West
+E5,280.0,15.0,completed,South
+E6,360.0,14.0,completed,West

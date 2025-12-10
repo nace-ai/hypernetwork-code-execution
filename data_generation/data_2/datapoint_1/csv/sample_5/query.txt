@@ -1,0 +1,1 @@
+Calculate the total gross amount for completed records in the Finance sector, including dispatch costs.

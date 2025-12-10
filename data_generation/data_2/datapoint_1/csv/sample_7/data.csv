@@ -1,0 +1,7 @@
+transaction_ref,cost,logistics_fee,order_condition,zone
+TR001,560.0,30.0,completed,Alpha
+TR002,470.0,25.0,pending,Beta
+TR003,380.0,20.0,completed,Alpha
+TR004,590.0,35.0,completed,Alpha
+TR005,660.0,40.0,completed,Gamma
+TR006,450.0,18.0,completed,Alpha

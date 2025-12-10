@@ -1,0 +1,8 @@
+sales_id,total_sales,expenses,region
+1,1000.5,500.25,North
+2,1500.75,750.1,South
+3,800.2,400.4,North
+4,1200.3,600.15,South
+5,1600.4,800.3,East
+6,900.6,450.45,North
+7,1100.8,550.5,West

@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "earnings",
+  "expense_column": "cost_val",
+  "expense_filter_column": "segment",
+  "expense_filter_value": "Consumer",
+  "discount_rate": 0.05
+}

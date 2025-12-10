@@ -1,0 +1,1 @@
+Determine the net profit for EnterpriseA transactions applying a 7% reduction on losses.

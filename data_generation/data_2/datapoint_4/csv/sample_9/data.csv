@@ -1,0 +1,6 @@
+bill_total,transaction_complete,dispatch_cost,record_id
+3120.55,yes,10.0,401
+4230.66,yes,11.0,402
+5340.77,yes,12.0,403
+6450.88,yes,13.0,404
+7560.99,no,14.0,405

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "total_expense_column": "grand_total",
+  "expense_filter_column": "order_final",
+  "expense_filter_value": "true",
+  "shipping_cost_column": "postage_fee",
+  "aggregation_method": "sum",
+  "min_threshold": 18.0
+}

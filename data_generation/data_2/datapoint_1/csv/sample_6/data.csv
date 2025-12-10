@@ -1,0 +1,12 @@
+entry_id,net_value,courier_charge,final_status,division
+201,330.0,22.0,completed,Logistics
+202,440.0,18.0,completed,Marketing
+203,390.0,15.0,pending,Logistics
+204,275.0,10.0,completed,Sales
+205,510.0,20.0,completed,Logistics
+206,600.0,25.0,completed,Sales
+207,410.0,12.0,completed,Logistics
+208,290.0,14.0,completed,Logistics
+209,460.0,17.0,completed,Sales
+210,310.0,15.0,completed,Logistics
+211,370.0,16.0,completed,Marketing

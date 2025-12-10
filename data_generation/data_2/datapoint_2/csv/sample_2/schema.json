@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "amount",
+    "category",
+    "region",
+    "agent"
+  ],
+  "description": "Financial transactions with category and regional data"
+}

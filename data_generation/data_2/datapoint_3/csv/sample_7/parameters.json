@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "income_sum",
+  "expense_column": "cost_total",
+  "revenue_filter_column": "business_unit",
+  "revenue_filter_value": "Retail"
+}

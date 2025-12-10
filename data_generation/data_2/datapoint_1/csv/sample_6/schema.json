@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "entry_id",
+    "net_value",
+    "courier_charge",
+    "final_status",
+    "division"
+  ],
+  "description": "Entries with net value and courier charges, categorized by division"
+}

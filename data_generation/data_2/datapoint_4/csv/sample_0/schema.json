@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "purchase_total",
+    "order_status",
+    "delivery_fee",
+    "product_id"
+  ],
+  "description": "Schema with basic financial transaction details including product identifiers and variation in nomenclature."
+}

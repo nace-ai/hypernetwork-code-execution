@@ -1,0 +1,1 @@
+Determine the gross profit margin for Zone 1 with total income over 8000, considering a 10% discount on expenditures.

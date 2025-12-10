@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "id",
+    "earned_revenue",
+    "expended_costs",
+    "sector"
+  ],
+  "description": "Schema capturing earned revenue and expended costs in various sectors"
+}

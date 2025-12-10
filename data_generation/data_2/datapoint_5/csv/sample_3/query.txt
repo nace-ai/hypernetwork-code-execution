@@ -1,0 +1,1 @@
+Calculate the gross profit margin for projects in the R&D department with revenue over 2900, applying a 2% discount on costs.

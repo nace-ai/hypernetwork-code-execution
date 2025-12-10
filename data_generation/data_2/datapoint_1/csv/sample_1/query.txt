@@ -1,0 +1,1 @@
+What is the total revenue for all transactions marked as 'completed', including delivery fees?

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "income",
+  "cost_column": "expenses_incurred",
+  "filter_column": "division",
+  "filter_value": "East",
+  "min_threshold": 1150.0,
+  "discount_rate": 0.04
+}

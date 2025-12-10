@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "final_value",
+  "shipping_column": "movement_fee",
+  "filter_column": "territory",
+  "filter_value": "Region1",
+  "status_column": "resolution_status",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

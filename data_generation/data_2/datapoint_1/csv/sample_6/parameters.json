@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "net_value",
+  "shipping_column": "courier_charge",
+  "filter_column": "division",
+  "filter_value": "Logistics",
+  "status_column": "final_status",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

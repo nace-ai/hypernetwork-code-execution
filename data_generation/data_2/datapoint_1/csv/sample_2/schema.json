@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "invoice_num",
+    "amt_due",
+    "shipping_charge",
+    "order_type",
+    "status_flag"
+  ],
+  "description": "Invoices with amount due, shipping charge, and order type information"
+}

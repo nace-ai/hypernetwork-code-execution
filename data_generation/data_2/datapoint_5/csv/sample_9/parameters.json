@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "net_sales",
+  "cost_column": "total_expense",
+  "filter_column": "location",
+  "filter_value": "HQ",
+  "min_threshold": 4250.0,
+  "discount_rate": 0.09
+}

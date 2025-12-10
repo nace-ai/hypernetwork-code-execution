@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "earned_revenue",
+  "expense_column": "expended_costs",
+  "expense_filter_column": "sector",
+  "expense_filter_value": "Agriculture"
+}

@@ -1,0 +1,5 @@
+shipment_id,final_value,movement_fee,resolution_status,territory
+SH001,400.0,15.0,completed,Region1
+SH002,500.0,20.0,completed,Region2
+SH003,430.0,12.0,pending,Region1
+SH004,620.0,25.0,completed,Region1

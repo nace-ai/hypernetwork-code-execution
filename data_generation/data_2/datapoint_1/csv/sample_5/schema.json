@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "record_id",
+    "gross_amount",
+    "dispatch_cost",
+    "confirmation_state",
+    "sector"
+  ],
+  "description": "Records with gross amount and dispatch cost, filtered by sector"
+}

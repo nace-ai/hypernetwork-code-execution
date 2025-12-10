@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "total_amount",
+  "shipping_column": "delivery_fee",
+  "status_column": "status",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

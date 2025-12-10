@@ -1,0 +1,9 @@
+order_ref,income_sum,cost_total,business_unit
+ORD001,9000,4000,Industrial
+ORD002,11500,5600,Retail
+ORD003,14500,6700,Industrial
+ORD004,12500,5200,Consumer
+ORD005,11800,6000,Retail
+ORD006,15200,7050,Consumer
+ORD007,16200,7300,Industrial
+ORD008,13600,6150,Retail

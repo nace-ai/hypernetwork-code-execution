@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "expense_sum",
+    "completion_state",
+    "logistics_charge",
+    "transaction_id",
+    "currency"
+  ],
+  "description": "Financial records tracking expenses in varied currencies with logistics costs."
+}

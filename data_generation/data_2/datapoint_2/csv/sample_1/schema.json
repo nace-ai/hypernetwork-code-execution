@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "sales_value",
+    "type",
+    "location",
+    "salesperson_name"
+  ],
+  "description": "Sales records categorized by type and location with contact"
+}

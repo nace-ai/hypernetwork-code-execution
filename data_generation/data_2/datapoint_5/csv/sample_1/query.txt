@@ -1,0 +1,1 @@
+Calculate the gross profit margin for 'Retail' category transactions where income exceeds 1800, factoring in a 3% cost reduction.

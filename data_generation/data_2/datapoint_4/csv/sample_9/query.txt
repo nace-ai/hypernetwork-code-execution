@@ -1,0 +1,1 @@
+Calculate the dispatch cost to bill total ratio for transactions marked complete where the dispatch cost is more than $9.50.

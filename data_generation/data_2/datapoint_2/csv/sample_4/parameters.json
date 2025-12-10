@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "listing_price_column": "income",
+  "property_type_column": "group",
+  "filter_property_type": "Alpha",
+  "discount_rate": 0.07
+}

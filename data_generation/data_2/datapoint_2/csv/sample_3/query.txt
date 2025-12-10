@@ -1,0 +1,1 @@
+Calculate the discounted total value for Type A classifications.

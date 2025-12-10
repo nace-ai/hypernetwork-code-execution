@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "gross_income",
+  "expense_column": "expenditure",
+  "expense_filter_column": "dept",
+  "expense_filter_value": "Sales"
+}

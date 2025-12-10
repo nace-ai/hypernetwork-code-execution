@@ -1,0 +1,1 @@
+What is the proportion of transport fees to invoice values for orders marked as completed, where transport fees exceed $10?

@@ -1,0 +1,20 @@
+amount,category,region,agent
+1000,Investment,East,Agent A
+15000,Expense,West,Agent B
+12000,Revenue,East,Agent C
+3000,Investment,West,Agent D
+8000,Expense,East,Agent E
+2000,Revenue,East,Agent F
+5000,Investment,West,Agent G
+7000,Revenue,East,Agent H
+14000,Expense,West,Agent I
+4000,Investment,East,Agent J
+11000,Revenue,East,Agent K
+1500,Investment,West,Agent L
+6000,Revenue,West,Agent M
+9500,Expense,East,Agent N
+13000,Investment,West,Agent O
+7700,Revenue,East,Agent P
+300,Expense,West,Agent Q
+5000,Investment,East,Agent R
+4800,Revenue,West,Agent S

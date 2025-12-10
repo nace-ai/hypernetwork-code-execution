@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "entry_number",
+    "income",
+    "expenses_incurred",
+    "division"
+  ],
+  "description": "Divisional income and expenses data with entry numbers"
+}

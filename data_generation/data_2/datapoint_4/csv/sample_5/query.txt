@@ -1,0 +1,1 @@
+Calculate the ratio of logistics charges to total expenses for completed transactions where logistics charges are greater than $6.

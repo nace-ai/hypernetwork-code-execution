@@ -1,0 +1,1 @@
+What is the total price for completed purchases in the East location, including shipment fees?

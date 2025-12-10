@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "invoice_id",
+    "total_sales",
+    "expense",
+    "category",
+    "region"
+  ],
+  "description": "Schema with sales and expense data across different categories and regions"
+}

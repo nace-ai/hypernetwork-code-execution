@@ -1,0 +1,1 @@
+Calculate the total amount due for completed online orders, including shipping charges.

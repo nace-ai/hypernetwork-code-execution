@@ -1,0 +1,10 @@
+expense_sum,completion_state,logistics_charge,transaction_id,currency
+1234.56,completed,5.55,1,USD
+2345.67,incomplete,6.6,2,USD
+3456.78,completed,7.75,3,USD
+4567.89,completed,4.8,4,USD
+5678.9,completed,9.45,5,USD
+6789.01,completed,8.85,6,USD
+7890.12,pending,10.25,7,USD
+8901.23,completed,12.15,8,USD
+9012.34,completed,11.2,9,USD

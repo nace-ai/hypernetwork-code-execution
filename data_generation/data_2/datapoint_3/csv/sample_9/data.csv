@@ -1,0 +1,16 @@
+batch_id,profit_gains,loss_amount,enterprise
+401,16000,9000,EnterpriseA
+402,18000,9500,EnterpriseB
+403,15000,8400,EnterpriseA
+404,17000,9200,EnterpriseC
+405,20000,11000,EnterpriseA
+406,17500,8700,EnterpriseB
+407,21000,11500,EnterpriseC
+408,19500,10000,EnterpriseA
+409,17500,8800,EnterpriseB
+410,16500,9300,EnterpriseC
+411,15500,8700,EnterpriseA
+412,18500,9600,EnterpriseB
+413,19000,10000,EnterpriseC
+414,20500,12000,EnterpriseA
+415,21500,12300,EnterpriseB

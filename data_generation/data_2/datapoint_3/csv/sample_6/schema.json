@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "transaction_number",
+    "revenue_collected",
+    "expenses_incurred",
+    "division_name"
+  ],
+  "description": "Data set with revenue and expense details by division"
+}

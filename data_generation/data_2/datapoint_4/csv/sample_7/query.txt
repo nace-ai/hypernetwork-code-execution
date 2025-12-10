@@ -1,0 +1,1 @@
+What is the total postage fee relative to grand total for finalized orders where postage fee is more than $18?

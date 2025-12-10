@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "record_id",
+    "revenue_stream",
+    "expenses_outgoing",
+    "departmental"
+  ],
+  "description": "Financial records of revenue and expenses by department label"
+}

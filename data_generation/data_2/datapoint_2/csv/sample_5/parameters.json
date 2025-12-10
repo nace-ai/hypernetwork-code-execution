@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "listing_price_column": "cost",
+  "property_type_column": "division",
+  "filter_property_type": "North",
+  "discount_rate": 0.04
+}

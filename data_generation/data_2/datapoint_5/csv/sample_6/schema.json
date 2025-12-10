@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "invoice_number",
+    "sales_amount",
+    "cost",
+    "sector_type"
+  ],
+  "description": "Sales and cost data categorized by sector type"
+}

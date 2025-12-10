@@ -1,0 +1,7 @@
+purchase_no,price,shipment_fee,completion_status,customer_location
+PN001,150.0,5.0,completed,East
+PN002,200.0,10.0,completed,East
+PN003,250.0,15.0,completed,West
+PN004,175.0,8.0,pending,East
+PN005,225.0,12.0,completed,East
+PN006,300.0,20.0,completed,South

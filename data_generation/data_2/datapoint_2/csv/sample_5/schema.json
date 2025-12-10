@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "cost",
+    "division",
+    "region",
+    "manager"
+  ],
+  "description": "Project costs with division, region, and manager names"
+}

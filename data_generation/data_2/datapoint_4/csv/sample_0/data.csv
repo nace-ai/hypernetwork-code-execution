@@ -1,0 +1,7 @@
+purchase_total,order_status,delivery_fee,product_id
+100.25,completed,5.75,101
+250.0,completed,7.25,102
+150.75,pending,6.5,103
+300.5,completed,8.0,104
+85.0,completed,4.25,105
+190.0,completed,7.0,106

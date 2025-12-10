@@ -1,0 +1,1 @@
+Calculate the overall shipping cost to total cost ratio for completed shipments with shipping fees over $10.

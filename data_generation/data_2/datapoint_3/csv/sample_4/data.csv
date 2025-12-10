@@ -1,0 +1,7 @@
+purchase_id,earnings,cost_val,segment
+P001,13400,7500,Consumer
+P002,14500,8000,Business
+P003,16000,9500,Consumer
+P004,12700,7000,Government
+P005,17600,9100,Consumer
+P006,15900,8200,Business

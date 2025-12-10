@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "entry_id",
+    "income",
+    "outflow",
+    "division"
+  ],
+  "description": "Schema capturing income and outflow specific to division entries"
+}

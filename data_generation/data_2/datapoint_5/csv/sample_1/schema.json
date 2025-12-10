@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "transaction_id",
+    "income",
+    "costs",
+    "category"
+  ],
+  "description": "Transaction data with income and costs categorized"
+}

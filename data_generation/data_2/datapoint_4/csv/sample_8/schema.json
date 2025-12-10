@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "amount_total",
+    "concluded",
+    "courier_fee",
+    "receipt_id"
+  ],
+  "description": "Tracks the amount total with finalized status and associated courier fees for receipts."
+}

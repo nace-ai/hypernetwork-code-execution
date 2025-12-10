@@ -1,0 +1,8 @@
+record_id,gross_amount,dispatch_cost,confirmation_state,sector
+101,720.0,18.0,completed,Finance
+102,850.0,24.0,completed,Retail
+103,560.0,12.0,pending,Finance
+104,640.0,16.0,completed,Finance
+105,710.0,20.0,completed,Retail
+106,480.0,10.0,completed,Finance
+107,530.0,14.0,completed,Enterprise

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "amount",
+    "type",
+    "district",
+    "administrator"
+  ],
+  "description": "General transactions recorded by type and district with administrator contact"
+}

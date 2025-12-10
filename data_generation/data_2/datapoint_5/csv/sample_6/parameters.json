@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "sales_amount",
+  "cost_column": "cost",
+  "filter_column": "sector_type",
+  "filter_value": "Manufacturing",
+  "min_threshold": 3300.0,
+  "discount_rate": 0.08
+}

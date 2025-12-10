@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "price",
+  "shipping_column": "shipment_fee",
+  "filter_column": "customer_location",
+  "filter_value": "East",
+  "status_column": "completion_status",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

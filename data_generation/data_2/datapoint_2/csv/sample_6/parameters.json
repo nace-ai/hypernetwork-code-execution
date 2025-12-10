@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "listing_price_column": "transaction_amount",
+  "property_type_column": "classification",
+  "filter_property_type": "Class 1",
+  "discount_rate": 0.01
+}

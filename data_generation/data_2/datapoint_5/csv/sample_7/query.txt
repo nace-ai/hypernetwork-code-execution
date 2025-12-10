@@ -1,0 +1,1 @@
+Calculate the gross profit margin for records in the Sales department with revenue above 1400, and a 5% discount on expenses.

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "transaction_amount",
+    "classification",
+    "territory",
+    "consultant"
+  ],
+  "description": "Transaction records with classification and territory data"
+}

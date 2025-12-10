@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "sales_id",
+    "total_sales",
+    "expenses",
+    "region"
+  ],
+  "description": "Sales data with total sales and expenses by region"
+}

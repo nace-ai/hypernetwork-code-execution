@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "earnings",
+  "cost_column": "expenditures",
+  "filter_column": "sector",
+  "filter_value": "IT",
+  "min_threshold": 5000.0,
+  "discount_rate": 0.07
+}

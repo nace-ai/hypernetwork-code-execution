@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "id",
+    "earnings",
+    "expenditures",
+    "sector"
+  ],
+  "description": "Data on earnings and expenditures by sector"
+}

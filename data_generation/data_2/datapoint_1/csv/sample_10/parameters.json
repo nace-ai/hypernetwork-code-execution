@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "amount_due",
+  "shipping_column": "delivery_fee",
+  "filter_column": "locale",
+  "filter_value": "West",
+  "status_column": "completion_flag",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "value_column": "sale_value",
+  "shipping_column": "transport_fee",
+  "filter_column": "division",
+  "filter_value": "North",
+  "status_column": "completion_status",
+  "accepted_status": "completed",
+  "discount_rate": 0.0,
+  "include_shipping": true
+}

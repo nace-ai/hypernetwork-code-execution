@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "total_spend",
+    "finalized",
+    "delivery_charge",
+    "purchase_id"
+  ],
+  "description": "Transaction records involving finalized statuses and delivery charges."
+}

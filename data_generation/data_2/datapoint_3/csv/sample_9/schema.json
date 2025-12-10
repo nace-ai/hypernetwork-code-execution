@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "batch_id",
+    "profit_gains",
+    "loss_amount",
+    "enterprise"
+  ],
+  "description": "Dataset of profit gains and losses specific to different enterprises"
+}

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "id",
+    "value",
+    "transportation_fee",
+    "item_status",
+    "region"
+  ],
+  "description": "Item values with transportation fee and status, filtered by region"
+}

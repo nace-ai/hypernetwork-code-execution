@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "income_generated",
+  "expense_column": "money_spent",
+  "revenue_filter_column": "region",
+  "revenue_filter_value": "North",
+  "discount_rate": 0.1
+}

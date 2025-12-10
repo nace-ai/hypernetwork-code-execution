@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "total_cost",
+    "shipment_status",
+    "fee_shipping",
+    "user_id",
+    "location"
+  ],
+  "description": "Schema focusing on user purchases across different geographies, including shipping fees and user identification."
+}

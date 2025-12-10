@@ -1,0 +1,12 @@
+sale_id,sale_value,transport_fee,completion_status,division
+1001,300.0,12.0,completed,North
+1002,450.0,15.0,completed,South
+1003,240.0,10.0,pending,North
+1004,360.0,18.0,completed,North
+1005,490.0,20.0,completed,East
+1006,510.0,22.0,completed,North
+1007,270.0,8.0,completed,North
+1008,310.0,14.0,pending,South
+1009,600.0,25.0,completed,North
+1010,430.0,16.0,completed,West
+1011,295.0,9.0,completed,North

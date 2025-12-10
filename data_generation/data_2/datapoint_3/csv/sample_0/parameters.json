@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "sales",
+  "expense_column": "cost",
+  "revenue_filter_column": "category",
+  "revenue_filter_value": "Electronics"
+}

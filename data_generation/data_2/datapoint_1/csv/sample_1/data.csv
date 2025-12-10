@@ -1,0 +1,11 @@
+transaction_id,total_amount,delivery_fee,status
+T001,300.0,20.0,completed
+T002,450.0,25.0,completed
+T003,500.0,30.0,returned
+T004,250.0,15.0,completed
+T005,600.0,20.0,completed
+T006,320.0,10.0,completed
+T007,530.0,18.0,pending
+T008,400.0,22.0,completed
+T009,290.0,15.0,completed
+T010,450.0,25.0,completed

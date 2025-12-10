@@ -1,0 +1,10 @@
+project_code,revenue_generated,cost_of_services,department
+P001,3000.5,1200.7,R&D
+P002,3500.7,1500.9,Marketing
+P003,2800.8,1300.4,R&D
+P004,4000.0,1800.2,Operations
+P005,3600.6,1600.8,Marketing
+P006,3100.9,1400.0,R&D
+P007,3700.3,1700.3,Operations
+P008,3900.2,1900.5,Marketing
+P009,4200.1,2000.6,Operations

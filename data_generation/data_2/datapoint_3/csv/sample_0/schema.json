@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "transaction_id",
+    "sales",
+    "cost",
+    "category"
+  ],
+  "description": "Schema with transaction details, focusing on sales and costs"
+}

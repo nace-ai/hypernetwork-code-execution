@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "purchase_no",
+    "price",
+    "shipment_fee",
+    "completion_status",
+    "customer_location"
+  ],
+  "description": "Purchase records with prices, shipment fees, and completion status"
+}

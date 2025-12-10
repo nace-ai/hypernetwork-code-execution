@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "gross_revenue",
+  "cost_column": "operational_expense",
+  "filter_column": "region_code",
+  "filter_value": "A1",
+  "min_threshold": 2300.0,
+  "discount_rate": 0.06
+}

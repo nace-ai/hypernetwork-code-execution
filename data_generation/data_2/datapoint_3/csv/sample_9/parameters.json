@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "profit_gains",
+  "expense_column": "loss_amount",
+  "revenue_filter_column": "enterprise",
+  "revenue_filter_value": "EnterpriseA",
+  "discount_rate": 0.07
+}

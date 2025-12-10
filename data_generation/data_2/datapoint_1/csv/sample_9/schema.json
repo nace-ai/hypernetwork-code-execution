@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "shipment_id",
+    "final_value",
+    "movement_fee",
+    "resolution_status",
+    "territory"
+  ],
+  "description": "Shipment details with final value and movement fee, categorized by territory"
+}

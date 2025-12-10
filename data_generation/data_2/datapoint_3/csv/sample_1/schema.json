@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "order_no",
+    "gross_income",
+    "expenditure",
+    "dept"
+  ],
+  "description": "Schema with order details, focusing on gross income and expenditure"
+}

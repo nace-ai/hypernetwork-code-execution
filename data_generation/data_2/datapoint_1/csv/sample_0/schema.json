@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "order_id",
+    "sales_value",
+    "freight_cost",
+    "order_status",
+    "customer_region"
+  ],
+  "description": "Orders with sales and freight costs, including order status and region"
+}

@@ -1,0 +1,1 @@
+What is the total sales amount for Electronics category after applying a 3% discount?

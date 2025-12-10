@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "order_ref",
+    "income_sum",
+    "cost_total",
+    "business_unit"
+  ],
+  "description": "Schema detailing income and costs across various business units"
+}

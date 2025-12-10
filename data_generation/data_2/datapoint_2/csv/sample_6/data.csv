@@ -1,0 +1,10 @@
+transaction_amount,classification,territory,consultant
+2000,Class 1,Zone 1,Consultant A
+3000,Class 2,Zone 2,Consultant B
+4000,Class 1,Zone 3,Consultant C
+5000,Class 2,Zone 4,Consultant D
+6000,Class 1,Zone 5,Consultant E
+7000,Class 2,Zone 6,Consultant F
+8000,Class 1,Zone 7,Consultant G
+9000,Class 2,Zone 8,Consultant H
+10000,Class 1,Zone 9,Consultant I

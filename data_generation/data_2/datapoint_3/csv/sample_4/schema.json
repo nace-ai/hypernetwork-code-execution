@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "purchase_id",
+    "earnings",
+    "cost_val",
+    "segment"
+  ],
+  "description": "Dataset of purchase details with earnings and cost values related to segments"
+}

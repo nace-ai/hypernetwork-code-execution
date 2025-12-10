@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "value",
+    "classification",
+    "zone",
+    "broker_name"
+  ],
+  "description": "Transaction records with value, classification and zone"
+}

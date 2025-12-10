@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "sales_total",
+    "transaction_status",
+    "freight_cost",
+    "client_id",
+    "region"
+  ],
+  "description": "Schema highlighting regional sales performance with transaction status and freight cost data."
+}

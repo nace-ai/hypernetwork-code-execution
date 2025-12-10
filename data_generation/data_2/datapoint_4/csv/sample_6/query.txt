@@ -1,0 +1,1 @@
+Determine the overall delivery charge to total spend ratio for finalized purchases where delivery charge exceeds $10.

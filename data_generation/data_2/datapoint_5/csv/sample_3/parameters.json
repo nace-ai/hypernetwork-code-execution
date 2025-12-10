@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "revenue_generated",
+  "cost_column": "cost_of_services",
+  "filter_column": "department",
+  "filter_value": "R&D",
+  "min_threshold": 2900.0,
+  "discount_rate": 0.02
+}

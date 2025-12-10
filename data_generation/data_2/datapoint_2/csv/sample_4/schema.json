@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "income",
+    "group",
+    "sector",
+    "rep"
+  ],
+  "description": "Income figures categorized by group and sector with representative info"
+}

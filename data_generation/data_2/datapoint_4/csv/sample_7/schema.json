@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "grand_total",
+    "order_final",
+    "postage_fee",
+    "invoice_id"
+  ],
+  "description": "Grand total alongside order status and postage fees, focused on invoice records."
+}

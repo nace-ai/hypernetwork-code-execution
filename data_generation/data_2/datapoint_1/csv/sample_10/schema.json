@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "entry_num",
+    "amount_due",
+    "delivery_fee",
+    "completion_flag",
+    "locale"
+  ],
+  "description": "Entries with amount due and delivery fees, filtered by locale"
+}

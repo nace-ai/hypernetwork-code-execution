@@ -1,0 +1,1 @@
+What is the gross profit margin for the Manufacturing sector where each sales amount is more than 3300, applying an 8% discount to costs?

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "transaction_ref",
+    "cost",
+    "logistics_fee",
+    "order_condition",
+    "zone"
+  ],
+  "description": "Transaction records with cost and logistics fee filtered by zone"
+}

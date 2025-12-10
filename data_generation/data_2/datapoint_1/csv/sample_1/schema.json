@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "transaction_id",
+    "total_amount",
+    "delivery_fee",
+    "status"
+  ],
+  "description": "Transaction records with amounts and delivery fee details"
+}

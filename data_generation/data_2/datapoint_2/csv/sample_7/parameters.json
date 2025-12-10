@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "listing_price_column": "sales_amount",
+  "property_type_column": "category",
+  "filter_property_type": "Electronics",
+  "discount_rate": 0.03
+}
