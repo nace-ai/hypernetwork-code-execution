@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "valuation",
+    "quantity",
+    "init_price",
+    "industry"
+  ],
+  "description": "Focuses on a specific industry with additional descriptors"
+}

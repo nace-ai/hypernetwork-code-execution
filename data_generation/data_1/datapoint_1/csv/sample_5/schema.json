@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "capital_assets",
+    "total_debts",
+    "shares_out",
+    "industry",
+    "approval_status"
+  ],
+  "description": "Schema including a status column for approval and focusing on industry-specific assets"
+}

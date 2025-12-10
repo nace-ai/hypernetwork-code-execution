@@ -1,0 +1,4 @@
+unit_price,shares_held,entry_cost,group_type
+120,10,110,Retail
+140,5,130,Retail
+160,8,150,Wholesale

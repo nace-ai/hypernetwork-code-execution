@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "value",
+  "shares_column": "count",
+  "cost_column": "buy_cost",
+  "filter_column": "sector",
+  "filter_value": "Telecom",
+  "min_threshold": 1000.0
+}

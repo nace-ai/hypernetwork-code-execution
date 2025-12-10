@@ -1,0 +1,1 @@
+What is the total funds for the Tech section, applying a 1.25 multiplier, and excluding entries below 5000?

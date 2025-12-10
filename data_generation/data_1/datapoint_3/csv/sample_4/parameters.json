@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "curr_val",
+  "shares_column": "shares_count",
+  "cost_column": "initial_value",
+  "filter_column": "type",
+  "filter_value": "Consumer Goods",
+  "min_threshold": 1000.0
+}

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "net_worth",
+    "liability",
+    "issued_shares",
+    "country_zone",
+    "subdivision"
+  ],
+  "description": "Schema emphasizing international zones and subdivisions with alternate financial terminology"
+}

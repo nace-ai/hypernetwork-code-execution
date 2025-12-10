@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "total_assets_column": "capital_assets",
+  "total_liabilities_column": "total_debts",
+  "shares_outstanding_column": "shares_out",
+  "filter_column": "approval_status",
+  "filter_value": "Approved",
+  "group_by_column": "industry",
+  "min_threshold": 75000,
+  "discount_rate": 1.0
+}

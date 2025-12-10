@@ -1,0 +1,1 @@
+Calculate the return on assets for the West region investments with a minimum total cost of 1000.

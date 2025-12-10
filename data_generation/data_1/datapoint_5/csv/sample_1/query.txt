@@ -1,0 +1,1 @@
+Calculate the total listing price of active properties in the Westside neighborhood, applying a 10% discount.

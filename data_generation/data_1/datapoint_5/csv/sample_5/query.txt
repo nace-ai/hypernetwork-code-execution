@@ -1,0 +1,1 @@
+Find the total sale value of active properties in the Urban zone, with a 15% discount considered.

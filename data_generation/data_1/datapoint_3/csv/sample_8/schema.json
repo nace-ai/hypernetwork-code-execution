@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "value",
+    "count",
+    "buy_cost",
+    "sector",
+    "division"
+  ],
+  "description": "Schema with an emphasis on 'sector' and 'division' for filtering"
+}

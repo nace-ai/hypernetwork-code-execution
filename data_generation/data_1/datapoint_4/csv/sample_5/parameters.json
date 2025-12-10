@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "gross_revenue",
+  "filter_column": "category",
+  "filter_value": "Clothing",
+  "multiplier": 1.1,
+  "min_threshold": null
+}

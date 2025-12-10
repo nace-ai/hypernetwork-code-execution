@@ -1,0 +1,1 @@
+Calculate the total gross revenue for the Clothing category with a 1.1 multiplier.

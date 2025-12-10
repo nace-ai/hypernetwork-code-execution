@@ -1,0 +1,1 @@
+What is the average book value per share across all business units, applying a 1.05 multiplier, excluding units with net assets below 20000?

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "total_assets_column": "assets",
+  "total_liabilities_column": "debts",
+  "shares_outstanding_column": "shares",
+  "group_by_column": "business_unit",
+  "min_threshold": 20000,
+  "discount_rate": 1.05
+}

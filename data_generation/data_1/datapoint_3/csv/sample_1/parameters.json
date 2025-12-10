@@ -1,0 +1,7 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "value_now",
+  "shares_column": "stock_units",
+  "cost_column": "initial_cost",
+  "min_threshold": 500.0
+}

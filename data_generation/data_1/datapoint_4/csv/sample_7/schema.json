@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "earnings",
+    "department",
+    "project",
+    "month"
+  ],
+  "description": "Earnings data by department and project for each month."
+}

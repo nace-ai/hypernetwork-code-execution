@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "listingID",
+    "valuation",
+    "market_status",
+    "region"
+  ],
+  "description": "Property listings with valuation, status, and region information"
+}

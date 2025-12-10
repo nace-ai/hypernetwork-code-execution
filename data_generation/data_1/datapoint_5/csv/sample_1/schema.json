@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "id",
+    "listing_price",
+    "current_status",
+    "neighborhood",
+    "agent_id"
+  ],
+  "description": "Property listings with price, status, neighborhood and agent details"
+}

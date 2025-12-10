@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "worth",
+  "filter_column": "district_code",
+  "filter_value": "003",
+  "discount_rate": 0.05,
+  "status_column": "state",
+  "active_status": "active"
+}

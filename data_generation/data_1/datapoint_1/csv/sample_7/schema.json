@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "total_capital",
+    "total_obligations",
+    "total_shares",
+    "territory",
+    "operation_unit"
+  ],
+  "description": "Schema describing international territorial data with operation unit as an organizational category"
+}

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "entry_id",
+    "asking_price",
+    "state",
+    "sector"
+  ],
+  "description": "Property market data with asking price, state, and sector classification"
+}

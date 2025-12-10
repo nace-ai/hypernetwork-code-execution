@@ -1,0 +1,8 @@
+{
+  "columns": [
+    "gross_revenue",
+    "category",
+    "week"
+  ],
+  "description": "Weekly gross revenue data segmented by category."
+}

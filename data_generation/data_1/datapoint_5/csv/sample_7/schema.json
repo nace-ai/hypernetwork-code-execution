@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "transaction_id",
+    "total_cost",
+    "current_status",
+    "region_code"
+  ],
+  "description": "Transactions showing ID, cost, status, and region code"
+}

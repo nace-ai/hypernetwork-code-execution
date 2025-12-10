@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "valuation",
+  "shares_column": "quantity",
+  "cost_column": "init_price",
+  "filter_column": "industry",
+  "filter_value": "Automotive",
+  "min_threshold": 1500.0
+}

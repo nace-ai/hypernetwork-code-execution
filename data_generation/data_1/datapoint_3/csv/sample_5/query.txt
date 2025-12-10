@@ -1,0 +1,1 @@
+Determine the return on assets for Infrastructure category when the minimum total cost is 2000.

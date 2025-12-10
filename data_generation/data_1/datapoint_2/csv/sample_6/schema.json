@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "total_revenue",
+    "inventory_assets",
+    "total_liabilities",
+    "current_status"
+  ],
+  "description": "Financial summary with emphasis on inventory and liabilities"
+}

@@ -1,0 +1,1 @@
+What is the average book value per share across all market segments when applying a discount rate of 0.95, excluding segments with net assets below 50000?

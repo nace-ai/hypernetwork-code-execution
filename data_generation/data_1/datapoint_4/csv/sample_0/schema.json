@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "sales_amount",
+    "region",
+    "quarter",
+    "product_category"
+  ],
+  "description": "Sales data with sales amount, regional data, quarter, and product category."
+}

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "revenue",
+    "division",
+    "fiscal_month",
+    "type"
+  ],
+  "description": "Revenue data split by division, fiscal month, and type."
+}

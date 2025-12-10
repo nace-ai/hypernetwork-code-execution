@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "earnings",
+  "filter_column": "department",
+  "filter_value": "R&D",
+  "multiplier": 1.15,
+  "min_threshold": null
+}

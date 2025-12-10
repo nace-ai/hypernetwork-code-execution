@@ -1,0 +1,5 @@
+net_revenue,campaign_id,region,season
+14000,C1,Global,Spring
+6000,C2,Local,Summer
+1200,C3,Global,Winter
+7000,C4,Local,Autumn

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "revenue",
+    "inventory_stock",
+    "liability",
+    "completion_status"
+  ],
+  "description": "Revenue data emphasizing inventory and liabilities with completion status"
+}

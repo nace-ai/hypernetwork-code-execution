@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "sales_amount",
+    "stock_on_hand",
+    "current_debt",
+    "transaction_status"
+  ],
+  "description": "Detailed sales transactions with attention to stock levels and debts"
+}

@@ -1,0 +1,4 @@
+asset_value,debt_value,share_count,market_segment,operating_profit
+1000000,400000,10000,Consumer Goods,120000
+1100000,450000,11000,Industrial,130000
+900000,350000,9000,Services,110000

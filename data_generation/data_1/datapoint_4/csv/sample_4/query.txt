@@ -1,0 +1,1 @@
+What is the total adjusted sales figure, with a 1.05 multiplier, excluding any sales below 1000?

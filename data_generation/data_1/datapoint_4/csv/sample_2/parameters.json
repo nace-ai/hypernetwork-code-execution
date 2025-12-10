@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "profit",
+  "filter_column": "location",
+  "filter_value": "Urban",
+  "multiplier": 1,
+  "min_threshold": 7000
+}

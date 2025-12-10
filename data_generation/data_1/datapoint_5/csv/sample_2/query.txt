@@ -1,0 +1,1 @@
+What is the total price of available properties in the Central district, with a 5% discount applied?

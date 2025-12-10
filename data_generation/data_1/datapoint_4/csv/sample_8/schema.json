@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "net_revenue",
+    "campaign_id",
+    "region",
+    "season"
+  ],
+  "description": "Net revenue from marketing campaigns categorized by region and season."
+}

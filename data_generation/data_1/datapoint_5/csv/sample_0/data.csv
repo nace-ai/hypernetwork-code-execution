@@ -1,0 +1,4 @@
+property_id,cost,availability,location
+101,250000,active,Downtown
+102,300000,inactive,Uptown
+103,450000,active,Downtown

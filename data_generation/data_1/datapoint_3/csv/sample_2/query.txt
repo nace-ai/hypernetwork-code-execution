@@ -1,0 +1,1 @@
+Find the return on assets for the Energy sector with a minimum total cost threshold of 2000.

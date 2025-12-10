@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "total_funds",
+    "liability_amount",
+    "stock_shares",
+    "geographic_region",
+    "department"
+  ],
+  "description": "Schema focusing on regional data with department categorization and different fund naming conventions"
+}

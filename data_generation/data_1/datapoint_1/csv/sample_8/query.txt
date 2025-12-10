@@ -1,0 +1,1 @@
+What is the average book value per share for the California state, grouped by branch, excluding branches with net assets below 50000?

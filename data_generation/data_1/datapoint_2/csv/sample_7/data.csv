@@ -1,0 +1,4 @@
+sales_amount,stock_on_hand,current_debt,transaction_status
+16000,2000,10000,settled
+9000,1500,11000,cancelled
+6000,1200,5000,settled

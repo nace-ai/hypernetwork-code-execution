@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "property_id",
+    "cost",
+    "availability",
+    "location"
+  ],
+  "description": "Real estate properties with columns for ID, cost, status, and location"
+}

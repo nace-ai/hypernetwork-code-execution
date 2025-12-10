@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "revenue",
+  "filter_column": "division",
+  "filter_value": "North",
+  "multiplier": 1,
+  "min_threshold": 2000
+}

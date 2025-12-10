@@ -1,0 +1,1 @@
+Calculate the return on assets for Consumer Goods with a minimum cost threshold of 1000.

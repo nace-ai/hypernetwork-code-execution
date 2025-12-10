@@ -1,0 +1,4 @@
+item_id,valuation_amount,status_detail,area
+701,120000,on_market,East
+702,78000,on_market,West
+703,135000,sold,East

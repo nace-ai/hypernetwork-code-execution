@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "market_price",
+  "shares_column": "holdings",
+  "cost_column": "orig_cost",
+  "filter_column": "category",
+  "filter_value": "Infrastructure",
+  "min_threshold": 2000.0
+}

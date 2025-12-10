@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "wealth",
+    "debt",
+    "equity_shares",
+    "state",
+    "branch"
+  ],
+  "description": "Schema with state and branch detailing and basic financial terms for assets and debts"
+}

@@ -1,0 +1,4 @@
+record_id,price,sale_status,district
+301,50000,available,Central
+302,60000,available,North
+303,70000,sold,Central

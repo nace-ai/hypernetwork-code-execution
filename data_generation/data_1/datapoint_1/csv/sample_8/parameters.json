@@ -1,0 +1,11 @@
+{
+  "csv_path": "data.csv",
+  "total_assets_column": "wealth",
+  "total_liabilities_column": "debt",
+  "shares_outstanding_column": "equity_shares",
+  "filter_column": "state",
+  "filter_value": "California",
+  "group_by_column": "branch",
+  "min_threshold": 50000,
+  "discount_rate": 1.0
+}

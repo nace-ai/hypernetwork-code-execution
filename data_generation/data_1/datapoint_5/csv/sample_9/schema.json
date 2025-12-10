@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "record",
+    "worth",
+    "state",
+    "district_code"
+  ],
+  "description": "Real estate records with worth, state, and district code"
+}

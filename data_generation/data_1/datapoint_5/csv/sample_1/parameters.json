@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "listing_price",
+  "filter_column": "neighborhood",
+  "filter_value": "Westside",
+  "discount_rate": 0.1,
+  "status_column": "current_status",
+  "active_status": "active"
+}

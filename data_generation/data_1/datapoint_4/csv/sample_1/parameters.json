@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "income",
+  "filter_column": "region",
+  "filter_value": "East",
+  "multiplier": 1.1,
+  "min_threshold": 3000
+}

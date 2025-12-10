@@ -1,0 +1,1 @@
+Calculate the total worth of active properties in district 003, considering a 5% discount.

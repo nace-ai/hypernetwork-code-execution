@@ -1,0 +1,4 @@
+entry_id,asking_price,state,sector
+501,105000,available,Commercial
+502,200000,available,Residential
+503,300000,occupied,Commercial

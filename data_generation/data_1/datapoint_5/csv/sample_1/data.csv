@@ -1,0 +1,4 @@
+id,listing_price,current_status,neighborhood,agent_id
+201,150000,active,Westside,1
+202,200000,active,Eastside,2
+203,180000,sold,Westside,1

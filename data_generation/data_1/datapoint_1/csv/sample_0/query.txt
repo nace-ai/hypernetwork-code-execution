@@ -1,0 +1,1 @@
+What is the average book value per share across all sectors, excluding companies with net assets less than 10000?

@@ -1,0 +1,1 @@
+Determine the quick ratio for closed stages, with a focus on inventory and debt handling.

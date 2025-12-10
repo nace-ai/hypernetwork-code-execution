@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "valuation_amount",
+  "filter_column": "area",
+  "filter_value": "East",
+  "discount_rate": 0.25,
+  "status_column": "status_detail",
+  "active_status": "on_market"
+}

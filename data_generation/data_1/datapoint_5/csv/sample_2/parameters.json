@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "price",
+  "filter_column": "district",
+  "filter_value": "Central",
+  "discount_rate": 0.05,
+  "status_column": "sale_status",
+  "active_status": "available"
+}

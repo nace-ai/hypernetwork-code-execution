@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "unit_price",
+  "shares_column": "shares_held",
+  "cost_column": "entry_cost",
+  "filter_column": "group_type",
+  "filter_value": "Retail",
+  "min_threshold": 1000.0
+}

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "gross_sales",
+    "inventory_level",
+    "debts",
+    "status",
+    "project_id"
+  ],
+  "description": "Project-based financial information focusing on sales and debts"
+}

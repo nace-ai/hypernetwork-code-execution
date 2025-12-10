@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "current_assets_column": "turnover",
+  "inventory_column": "stock_value",
+  "current_liabilities_column": "debts",
+  "status_column": "status",
+  "status_filter": "approved",
+  "min_threshold": 0.05
+}

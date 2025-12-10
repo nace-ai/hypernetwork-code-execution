@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "unit_price",
+    "shares_held",
+    "entry_cost",
+    "group_type"
+  ],
+  "description": "Focus on 'unit_price' and 'group_type' for analysis"
+}

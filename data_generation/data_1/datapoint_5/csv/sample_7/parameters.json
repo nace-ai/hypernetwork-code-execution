@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "total_cost",
+  "filter_column": "region_code",
+  "filter_value": "001",
+  "discount_rate": 0.1,
+  "status_column": "current_status",
+  "active_status": "available"
+}

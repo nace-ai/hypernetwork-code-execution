@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "sales_total",
+    "stock_value",
+    "debt",
+    "status",
+    "region"
+  ],
+  "description": "Sales and finance data for different regions"
+}

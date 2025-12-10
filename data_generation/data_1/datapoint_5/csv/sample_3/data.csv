@@ -1,0 +1,4 @@
+listingID,valuation,market_status,region
+401,80000,active,Suburban
+402,95000,active,Rural
+403,120000,inactive,Suburban

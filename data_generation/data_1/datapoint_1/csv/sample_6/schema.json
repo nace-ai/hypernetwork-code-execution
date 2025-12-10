@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "aggregate_assets",
+    "aggregate_liabilities",
+    "aggregate_shares",
+    "area",
+    "function"
+  ],
+  "description": "Schema with a focus on functional areas within an organization and aggregated financial values"
+}

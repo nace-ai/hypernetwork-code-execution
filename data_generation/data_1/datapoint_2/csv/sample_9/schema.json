@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "profit",
+    "stocks",
+    "current_liabilities",
+    "status",
+    "entry_id"
+  ],
+  "description": "Profit and stock analysis with emphasis on liabilities and status of entries"
+}

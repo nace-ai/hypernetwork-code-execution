@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "asking_price",
+  "filter_column": "sector",
+  "filter_value": "Commercial",
+  "discount_rate": 0.0,
+  "status_column": "state",
+  "active_status": "available"
+}

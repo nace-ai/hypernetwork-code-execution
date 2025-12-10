@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "curr_market_value",
+  "shares_column": "num",
+  "cost_column": "cost_basis",
+  "filter_column": "segment",
+  "filter_value": "Pharma",
+  "min_threshold": 1500.0
+}

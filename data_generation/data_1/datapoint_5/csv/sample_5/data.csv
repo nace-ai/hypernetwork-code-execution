@@ -1,0 +1,4 @@
+code,sale_value,availability_status,zone
+601,480000,active,Urban
+602,540000,pending,Suburban
+603,320000,active,Urban

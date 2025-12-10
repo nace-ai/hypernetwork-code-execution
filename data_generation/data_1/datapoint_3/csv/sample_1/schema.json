@@ -1,0 +1,8 @@
+{
+  "columns": [
+    "value_now",
+    "stock_units",
+    "initial_cost"
+  ],
+  "description": "Simplified schema with only necessary columns, using different naming conventions"
+}

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "earnings",
+    "inventory_worth",
+    "debt_obligations",
+    "state"
+  ],
+  "description": "Company earnings and financial obligations split by current state"
+}

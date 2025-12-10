@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "id",
+    "property_value",
+    "availability",
+    "part"
+  ],
+  "description": "Properties with ID, value, availability status, and part of town"
+}

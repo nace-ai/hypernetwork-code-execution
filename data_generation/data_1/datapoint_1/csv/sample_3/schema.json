@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "asset_value",
+    "debt_value",
+    "share_count",
+    "market_segment",
+    "operating_profit"
+  ],
+  "description": "Schema including operating profit column and focusing on market segment analysis"
+}

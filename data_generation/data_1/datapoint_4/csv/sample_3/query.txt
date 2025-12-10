@@ -1,0 +1,1 @@
+Calculate the total revenue for the North division, excluding revenues below 2000.

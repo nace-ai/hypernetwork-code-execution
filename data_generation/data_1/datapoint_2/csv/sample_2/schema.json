@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "total_income",
+    "inventory_cost",
+    "current_debt",
+    "stage"
+  ],
+  "description": "Financial metrics with a focus on current debt and inventory costs"
+}

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "turnover",
+    "account",
+    "region",
+    "fiscal_year"
+  ],
+  "description": "Turnover details from various accounts segmented by region."
+}

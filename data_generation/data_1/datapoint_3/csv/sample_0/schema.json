@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "current_value",
+    "num_shares",
+    "buy_price",
+    "category",
+    "region"
+  ],
+  "description": "Schema with basic columns and extra 'region' and 'category' columns"
+}

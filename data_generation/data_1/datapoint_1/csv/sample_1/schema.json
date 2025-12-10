@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "assets",
+    "debts",
+    "shares",
+    "business_unit",
+    "profit"
+  ],
+  "description": "Schema with an additional profit column and more generalized terminology for assets and debts"
+}

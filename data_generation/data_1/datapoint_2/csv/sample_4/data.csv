@@ -1,0 +1,4 @@
+gross_sales,inventory_level,debts,status,project_id
+10000,3500,9500,completed,P001
+8000,2500,8000,ongoing,P002
+20000,5000,22000,completed,P003

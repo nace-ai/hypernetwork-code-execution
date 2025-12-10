@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "property_value",
+  "filter_column": "part",
+  "filter_value": "North",
+  "discount_rate": 0.0,
+  "status_column": "availability",
+  "active_status": "listed"
+}

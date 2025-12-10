@@ -1,0 +1,4 @@
+sales_total,stock_value,debt,status,region
+12000,3000,10000,finalized,East
+8000,2000,6000,finalized,West
+15000,5000,12000,ongoing,South

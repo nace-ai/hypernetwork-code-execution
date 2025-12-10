@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "income",
+    "dept",
+    "expense_type",
+    "date",
+    "region"
+  ],
+  "description": "Income data with various details including department and expense type."
+}

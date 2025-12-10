@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "record_id",
+    "price",
+    "sale_status",
+    "district"
+  ],
+  "description": "Sales records with unique ID, price, sale status, and district"
+}

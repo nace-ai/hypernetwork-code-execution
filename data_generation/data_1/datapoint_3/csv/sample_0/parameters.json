@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "current_value",
+  "shares_column": "num_shares",
+  "cost_column": "buy_price",
+  "filter_column": "region",
+  "filter_value": "West",
+  "min_threshold": 1000.0
+}

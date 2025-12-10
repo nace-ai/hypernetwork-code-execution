@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "cost",
+  "filter_column": "location",
+  "filter_value": "Downtown",
+  "discount_rate": 0.0,
+  "status_column": "availability",
+  "active_status": "active"
+}

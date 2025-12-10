@@ -1,0 +1,1 @@
+Calculate the quick ratio for projects completed focusing on gross sales relative to debts.

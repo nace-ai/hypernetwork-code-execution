@@ -1,0 +1,4 @@
+transaction_id,total_cost,current_status,region_code
+801,200000,available,001
+802,250000,sold,002
+803,150000,available,001

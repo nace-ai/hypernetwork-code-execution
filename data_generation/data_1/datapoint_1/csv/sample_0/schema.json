@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "assets_total",
+    "liabilities_total",
+    "shares_issued",
+    "sector",
+    "company_name"
+  ],
+  "description": "Schema using different terminology for financial columns and including a sector column"
+}

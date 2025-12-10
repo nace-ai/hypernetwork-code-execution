@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "total_assets_column": "net_worth",
+  "total_liabilities_column": "liability",
+  "shares_outstanding_column": "issued_shares",
+  "min_threshold": 100000,
+  "discount_rate": 1.1
+}

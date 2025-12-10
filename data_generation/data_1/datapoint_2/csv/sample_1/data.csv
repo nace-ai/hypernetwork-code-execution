@@ -1,0 +1,4 @@
+income,stock,liabilities,order_status
+5000,1000,4000,approved
+7000,1500,3500,approved
+6000,1200,4800,pending

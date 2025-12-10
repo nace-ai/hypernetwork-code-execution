@@ -1,0 +1,1 @@
+Calculate the quick ratio for approved orders, taking into account assets over stock.

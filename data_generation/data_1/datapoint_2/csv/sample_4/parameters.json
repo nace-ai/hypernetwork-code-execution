@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "current_assets_column": "gross_sales",
+  "inventory_column": "inventory_level",
+  "current_liabilities_column": "debts",
+  "status_column": "status",
+  "status_filter": "completed",
+  "min_threshold": 0.3
+}

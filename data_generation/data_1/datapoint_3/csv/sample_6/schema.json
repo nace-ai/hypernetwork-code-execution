@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "curr_market_value",
+    "num",
+    "cost_basis",
+    "segment"
+  ],
+  "description": "Schema with focus on market value, using 'segment' for grouping"
+}

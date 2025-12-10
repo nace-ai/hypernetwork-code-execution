@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "funds",
+    "allocation_id",
+    "section",
+    "year_quarter"
+  ],
+  "description": "Funds allocated to different sections by quarter."
+}

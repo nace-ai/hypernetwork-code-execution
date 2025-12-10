@@ -1,0 +1,1 @@
+What is the total sales amount for the East region, excluding sales below 1500, and applying a 1.2 multiplier?

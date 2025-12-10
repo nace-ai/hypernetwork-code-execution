@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "current_assets_column": "revenue",
+  "inventory_column": "inventory_stock",
+  "current_liabilities_column": "liability",
+  "status_column": "completion_status",
+  "status_filter": "verified",
+  "min_threshold": 0.25
+}

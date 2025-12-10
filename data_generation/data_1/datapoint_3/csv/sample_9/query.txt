@@ -1,0 +1,1 @@
+Calculate the return on assets for Retail group type with a minimum cost threshold of 1000.

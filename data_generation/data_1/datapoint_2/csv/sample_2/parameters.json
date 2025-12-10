@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "current_assets_column": "total_income",
+  "inventory_column": "inventory_cost",
+  "current_liabilities_column": "current_debt",
+  "status_column": "stage",
+  "status_filter": "closed",
+  "min_threshold": 0.15
+}

@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "curr_val",
+    "shares_count",
+    "initial_value",
+    "type"
+  ],
+  "description": "Simple schema with 'type' column for basic categorization"
+}

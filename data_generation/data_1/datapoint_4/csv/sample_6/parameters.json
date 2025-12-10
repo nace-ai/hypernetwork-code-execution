@@ -1,0 +1,8 @@
+{
+  "csv_path": "data.csv",
+  "revenue_column": "funds",
+  "filter_column": "section",
+  "filter_value": "Tech",
+  "multiplier": 1.25,
+  "min_threshold": 5000
+}

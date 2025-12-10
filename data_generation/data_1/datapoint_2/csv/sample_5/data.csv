@@ -1,0 +1,4 @@
+turnover,stock_value,debts,status,sector
+5000,1000,3000,approved,Retail
+12000,4000,15000,approved,Manufacturing
+18000,7000,19000,declined,Technology

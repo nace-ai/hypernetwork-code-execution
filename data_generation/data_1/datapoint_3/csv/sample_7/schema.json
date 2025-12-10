@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "market_val",
+    "units",
+    "acquisition_cost",
+    "allocation"
+  ],
+  "description": "Schema with 'allocation' column describing asset allocation"
+}

@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "price_column": "valuation",
+  "filter_column": "region",
+  "filter_value": "Suburban",
+  "discount_rate": 0.2,
+  "status_column": "market_status",
+  "active_status": "active"
+}

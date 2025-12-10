@@ -1,0 +1,1 @@
+Determine the quick ratio for approved sectors, focusing on turnover after deducting stock value.

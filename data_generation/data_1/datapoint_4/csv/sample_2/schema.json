@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "profit",
+    "operation_id",
+    "sector",
+    "year",
+    "location"
+  ],
+  "description": "Profit information distinguished by sector and location."
+}

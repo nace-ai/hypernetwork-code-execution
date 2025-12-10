@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "market_price",
+    "holdings",
+    "orig_cost",
+    "category"
+  ],
+  "description": "Schema with a 'category' column and a focus on market pricing"
+}

@@ -1,0 +1,10 @@
+{
+  "csv_path": "data.csv",
+  "total_assets_column": "total_capital",
+  "total_liabilities_column": "total_obligations",
+  "shares_outstanding_column": "total_shares",
+  "filter_column": "territory",
+  "filter_value": "Europe",
+  "min_threshold": 140000,
+  "discount_rate": 1.2
+}

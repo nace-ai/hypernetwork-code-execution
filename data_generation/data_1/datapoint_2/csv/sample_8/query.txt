@@ -1,0 +1,1 @@
+Calculate the quick ratio for final state records, focusing on earnings and excluding inventory.

@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "turnover",
+    "stock_value",
+    "debts",
+    "status",
+    "sector"
+  ],
+  "description": "Sector-based financial data with turnover and liabilities"
+}

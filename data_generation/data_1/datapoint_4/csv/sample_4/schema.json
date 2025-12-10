@@ -1,0 +1,8 @@
+{
+  "columns": [
+    "total_sales",
+    "store",
+    "date"
+  ],
+  "description": "Total sales data collected by store locations and dates."
+}

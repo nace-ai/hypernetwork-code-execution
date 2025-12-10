@@ -1,0 +1,1 @@
+What is the average book value per share for the EMEA region, grouped by department, excluding departments with net assets below 30000?

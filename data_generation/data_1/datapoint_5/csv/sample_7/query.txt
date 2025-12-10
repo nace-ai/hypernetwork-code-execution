@@ -1,0 +1,1 @@
+Determine the total cost of available properties in the region code 001 after applying a 10% discount.

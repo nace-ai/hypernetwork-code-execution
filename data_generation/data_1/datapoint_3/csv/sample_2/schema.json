@@ -1,0 +1,10 @@
+{
+  "columns": [
+    "market_value",
+    "units",
+    "price_at_purchase",
+    "sector",
+    "division"
+  ],
+  "description": "Includes additional 'sector' and 'division' columns for categorization"
+}

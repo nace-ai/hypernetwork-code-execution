@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "item_id",
+    "valuation_amount",
+    "status_detail",
+    "area"
+  ],
+  "description": "Valuation records showcasing amount, status, and geographic area"
+}

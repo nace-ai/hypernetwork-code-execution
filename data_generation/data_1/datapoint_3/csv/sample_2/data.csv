@@ -1,0 +1,4 @@
+market_value,units,price_at_purchase,sector,division
+50,100,40,Energy,North
+75,50,65,Retail,South
+100,20,90,Healthcare,West

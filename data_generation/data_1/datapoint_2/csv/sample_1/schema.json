@@ -1,0 +1,9 @@
+{
+  "columns": [
+    "income",
+    "stock",
+    "liabilities",
+    "order_status"
+  ],
+  "description": "Revenue and liability figures with order tracking"
+}

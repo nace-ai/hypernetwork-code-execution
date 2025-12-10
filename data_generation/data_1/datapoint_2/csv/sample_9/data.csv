@@ -1,0 +1,4 @@
+profit,stocks,current_liabilities,status,entry_id
+18000,3500,14500,approved,E1
+22000,4500,20500,approved,E2
+15000,3000,12000,rejected,E3

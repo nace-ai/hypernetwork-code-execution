@@ -1,0 +1,9 @@
+{
+  "csv_path": "data.csv",
+  "asset_value_column": "market_value",
+  "shares_column": "units",
+  "cost_column": "price_at_purchase",
+  "filter_column": "sector",
+  "filter_value": "Energy",
+  "min_threshold": 2000.0
+}

@@ -1,0 +1,1 @@
+Calculate the total income for the East region, with a minimum income threshold of 3000, using a 1.1 multiplier.
